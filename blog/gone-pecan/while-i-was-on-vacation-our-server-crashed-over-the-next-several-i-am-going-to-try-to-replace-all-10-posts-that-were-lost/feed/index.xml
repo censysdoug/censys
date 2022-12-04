@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: While I Was On Vacation Our Server Crashed &#8211; Over the next several days I am going to try to replace all 10 posts that were lost.	</title>
+	<atom:link href="/censys/blog/gone-pecan/while-i-was-on-vacation-our-server-crashed-over-the-next-several-i-am-going-to-try-to-replace-all-10-posts-that-were-lost/feed/" rel="self" type="application/rss+xml" />
+	<link>/censys/blog/gone-pecan/while-i-was-on-vacation-our-server-crashed-over-the-next-several-i-am-going-to-try-to-replace-all-10-posts-that-were-lost/</link>
+	<description>Censys.org</description>
+	<lastBuildDate>Thu, 01 Dec 2022 19:43:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
