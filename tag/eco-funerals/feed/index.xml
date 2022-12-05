@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@censysdoug 
+censysdoug
+/
+censys
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+censys/tag/eco-funerals/feed/index.xml
+@censysdoug
+censysdoug Add files via upload
+Latest commit 9958192 3 days ago
+ History
+ 1 contributor
+87 lines (81 sloc)  6.95 KB
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -9,8 +39,8 @@
 
 <channel>
 	<title>eco funerals Archives - Community Energy Systems</title>
-	<atom:link href="/censys/tag/eco-funerals/feed/" rel="self" type="application/rss+xml" />
-	<link>/censys/tag/eco-funerals/</link>
+	<atom:link href="/tag/eco-funerals/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/eco-funerals/</link>
 	<description>Censys.org</description>
 	<lastBuildDate>Thu, 01 Dec 2022 19:36:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +51,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Green Burials In Springfield IL &#8211; I love these women</title>
-		<link>/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/</link>
-					<comments>/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/#respond</comments>
+		<link>/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/</link>
+					<comments>/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/#respond</comments>
 		
 		<dc:creator><![CDATA[Doug Nicodemus]]></dc:creator>
 		<pubDate>Mon, 30 Apr 2012 16:39:00 +0000</pubDate>
@@ -46,10 +76,10 @@
 		<category><![CDATA[sustainability]]></category>
 		<category><![CDATA[the bible]]></category>
 		<category><![CDATA[eco funerals]]></category>
-		<guid isPermaLink="false">/censys/?p=3858</guid>
+		<guid isPermaLink="false">/?p=3858</guid>
 
-					<description><![CDATA[<p>The Earth Awareness Fair was this last weekend and I should be reporting on that. But these two women were there, Clada Parker and Jenn Bormann. They are with Roselawn Memorial Park and Butler Funeral home respectively. I am going &#8230; <a href="/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Continue reading <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Green Burials In Springfield IL &#8211; I love these women</a> appeared first on <a rel="nofollow" href="/censys/">Community Energy Systems</a>.</p>
+					<description><![CDATA[<p>The Earth Awareness Fair was this last weekend and I should be reporting on that. But these two women were there, Clada Parker and Jenn Bormann. They are with Roselawn Memorial Park and Butler Funeral home respectively. I am going &#8230; <a href="/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Continue reading <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Green Burials In Springfield IL &#8211; I love these women</a> appeared first on <a rel="nofollow" href="/">Community Energy Systems</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>The Earth Awareness Fair was this last weekend and I should be reporting on that. But these two women were there, Clada Parker and Jenn Bormann. They are with Roselawn Memorial Park and Butler Funeral home respectively. I am going to do Roselawn today and Butler tomorrow. I just love these guys. They had a woven basket casket with an optional silk liner with them on Saturday. But they have so many options it is real exciting. This is their Facebook page and their website:</p>
 <p><a href="https://www.facebook.com/pages/Roselawn-Memorial-Park/121946907815445">https://www.facebook.com/pages/Roselawn-Memorial-Park/121946907815445</a></p>
@@ -75,13 +105,28 @@ Springfield IL 62703<br />
 <p>:}</p>
 <p>Go there and read. More tomorrow.</p>
 <p>:}</p>
-<p>The post <a rel="nofollow" href="/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Green Burials In Springfield IL &#8211; I love these women</a> appeared first on <a rel="nofollow" href="/censys/">Community Energy Systems</a>.</p>
+<p>The post <a rel="nofollow" href="/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/">Green Burials In Springfield IL &#8211; I love these women</a> appeared first on <a rel="nofollow" href="/">Community Energy Systems</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/censys/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/burn-free-generation/green-burials-in-springfield-il-i-love-these-women/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 	</channel>
 </rss>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+censys/index.xml at main · censysdoug/censys
