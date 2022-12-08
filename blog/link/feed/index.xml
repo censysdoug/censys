@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Link	</title>
-	<atom:link href="/censys/blog/link/feed/" rel="self" type="application/rss+xml" />
-	<link>/censys/blog/link/</link>
+	<atom:link href="/blog/link/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/link/</link>
 	<description>Censys.org</description>
 	<lastBuildDate>Thu, 01 Dec 2022 19:58:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

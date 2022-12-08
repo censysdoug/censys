@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Changing Behavior	</title>
-	<atom:link href="/censys/blog/burning-behavior/changing-behavior/feed/" rel="self" type="application/rss+xml" />
-	<link>/censys/blog/burning-behavior/changing-behavior/</link>
+	<atom:link href="/blog/burning-behavior/changing-behavior/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/burning-behavior/changing-behavior/</link>
 	<description>Censys.org</description>
 	<lastBuildDate>Thu, 01 Dec 2022 19:46:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
